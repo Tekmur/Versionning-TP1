@@ -1,0 +1,6 @@
+878189f display copyright
+05abbed Add file header
+32e650b Add build time
+647e1c0 fix ignore rules
+4cf0213 fix ignore files
+226c27d Initial commit
